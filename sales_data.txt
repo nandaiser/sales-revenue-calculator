@@ -1,0 +1,6 @@
+Product,Units Sold,Price
+Tote Bag,12,55000
+Notebook,8,25000
+Tumbler,10,45000
+Pencil Case,6,20000
+Sticker Pack,15,10000
